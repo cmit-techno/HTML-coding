@@ -203,3 +203,13 @@ tr, td {
     margin-left: 3.6px;
     margin-right: 3.6px;
 }
+
+#scrollToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.5s ease-in;
+    opacity: 0.5;
+}
