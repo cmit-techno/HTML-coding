@@ -1,0 +1,156 @@
+header {
+    background-image: url(img/background_header.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    padding: 10px;
+
+}
+
+.nav_base {
+    margin-top: 10px;
+    
+}
+
+.nav_element {
+    float: right;
+    color: white;
+    margin: 5px;
+    font-size: 15px;
+}
+
+.nav_element:hover {
+    text-decoration: none;
+    color: cyan;
+}
+
+.header_main {
+    margin-top: 190px;
+    margin-bottom: 280px;
+    text-align: center;
+    color: white;
+}
+
+.section1 {
+    background-color: white;
+}
+
+.img_sec1 {
+    float: left;
+    margin: 60px 0;
+}
+
+.text_sec1 {
+    float: right;
+    margin: 60px 0;
+}
+
+
+
+.video_section {
+    background-image: url(img/background_video.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    padding: 10px;
+    height: 550px;
+}
+
+.play_button {
+    padding: 30px;
+    top: 200px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.play_button:hover {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+
+.play_button_img .play_button_text {
+    display: inline-block;
+    padding: 50px;
+}
+.video_box {
+    margin-top: 15%;
+    width: fit-content;
+}
+
+
+.expertise_section {
+    background-color: white;
+}
+
+.expertise_header {
+    text-align: center;
+    margin: 50px 0;
+}
+
+
+.center_obj {
+    text-align: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+h5 {
+    font-weight: 400;
+}
+
+footer {
+    background-image: url(img/background_footer.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    padding: 10px;
+    color: white;
+    font-size: smaller;
+}
+
+.margin-footer {
+    margin-top: 20px;
+}
+
+.footer_list {
+    list-style: none;
+}
+.footer_list_item {
+    margin-left: -30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.tajam {
+    margin-top: -15px;
+}
+.row-cont {
+    
+}
+
+input[type="text"]
+{
+    background: transparent;
+    border-color: black;
+}
+
+.button {
+    margin-left: 5px;
+    background-color: grey;
+    border-color: grey;
+}
+
+.inline-b {
+    display: inline-block;
+}
+
+.subscribe_sites {
+    padding: 0;
+}
+
+.margin-10 {
+    margin: 20px 10px;
+}
+
+.copyright {
+    float: right;
+    margin-top: 20px;
+}
