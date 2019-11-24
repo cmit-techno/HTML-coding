@@ -1,0 +1,145 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+.header {
+    background-image: url(img/fon.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding:10px;
+    height: 100vh;
+}
+ul, li { 
+    display:block;
+    padding:0;
+    margin:0;
+}
+.menu { 
+    margin-top:8px;  
+}
+.menu__item {
+    margin:0 15px;
+    display: inline;
+}
+.menu__item a {
+	margin-left:50px;
+    font-size:15px;
+    font-weight:700;
+    color:#fff;
+}
+h1,h2,h3,h4{
+    font-weight:1000;
+    color:#fff;
+    text-align:center;
+}
+.offer_title{
+	margin-top:170px;
+    text-align:center;
+    font-size:50pt;
+    margin-left:19px;
+}
+.text-1{
+	margin-top:50px
+	color:#fff;
+	text-align:center;
+}
+p{
+	font-weight:500;
+    color:#fff;
+    text-align:center;
+}
+.zagaljvac-2{
+	margin-top:75px;
+    color:#3e3e3e;
+    text-align:center;
+    font-size:30pt;
+}
+.text-2{
+	margin-top:25px;
+	color:#434343;
+	text-align:center;
+	margin-bottom:50px; 
+}
+.interesting {
+    height:100vh;
+    padding:10px;
+}
+.ryjgrf{
+	margin-top:25px;
+	border: 3px solid #fff;
+	border-radius: 3px;
+	width:200px;
+	height:50px;
+	text-align: center;
+	padding-top:10px;
+	text-align:center;
+}
+a{
+	color:#fff;
+}
+.gjkjcf{
+	border: 3px solid gray;
+	text-align:center;
+	border-radius:3px;
+	width:100px;
+	margin-left:505px;
+	margin-top:30px;
+	margin-bottom:10px; 
+}
+.text-3{
+	margin-top:10px;
+	color:#434343;
+	text-align:center;
+}
+.rfhnbyrf{
+	margin-left:125px;
+}
+.feedback{
+	background-image: url(img/фон2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding:10px;
+    height: 100vh;
+    overflow: hidden;
+}
+.slava2{
+	opacity:.4;
+	position:relative;
+	left:-120px;
+	margin-top:-45px;
+	z-index: 1; 
+}
+
+.slava{
+	margin-top:200px;
+}
+.text-4{
+	color:#fff;
+	font-size:17pt;
+	margin-top:-250px; 
+}
+.text-5{
+	color:#fff;
+	font-size:17pt;
+	margin-top:-13px
+}
+
+.slava3{
+	position: relative;
+	z-index: 2;
+}
+.gjldfk{
+	background-image: url(img/фон3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding:10px;
+    height:39vh;
+    overflow: hidden;
+}
+.footer_info{
+	color:#fff;
+	text-align:center;
+}
+.slava5{
+	margin-top:86px;
+	text-align:center;
+}
