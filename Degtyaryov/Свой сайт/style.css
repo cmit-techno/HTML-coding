@@ -1,0 +1,135 @@
+body {
+    font-family:'PT-sans', sans-serif;
+  }
+  ul, li {
+  
+  display: block;
+  padding: 0;
+  margin: 0;
+  
+  }
+  
+  .header{
+    background-color: #f6f2f2;
+    height: 100vh;
+  }
+
+  .menu__item {
+    display: inline-block;
+    margin-right: 50px;
+    padding: 27px 15px;
+    position: relative;
+    top: -10px;
+    height: 80px ;
+    
+
+  }
+
+  .pannaw {
+    background-color: #313030   ;
+    background-repeat: no-repeat ;
+    background-size: 100% ;
+    padding: 10px;
+    height: 80px;
+  }
+
+  .menu__item a {
+    color: white ;
+  }
+
+  .home {
+      background-color: #ff3f40;
+      background-size:100%;
+      
+      
+
+  }
+  .offer__title {
+      font-weight: 700;
+      font-size: 54px ;
+      letter-spacing: 0.1em;
+      margin-top: 15px  ;
+
+  }
+  .vid {
+    display: block;
+    float: right;
+    
+    
+    
+  }
+  .contact1{
+      background-color: #ff3f40;
+      padding: 15px 40px ;
+      border-radius: 5px;
+      color: white;
+      display:inline-block ;
+      margin-top: ;
+      
+  }
+  .men1 {
+      margin-top: 100px;
+  }
+  .text2{
+margin-left: 180px;
+margin-top: 90px;
+font-weight: 700;
+font-size: 48px ;
+letter-spacing: 0.1em;
+
+  }
+  .pText1{
+margin-left: 180px;
+margin-top: 40px;
+  }
+
+  .a2{
+    background-color: white;
+    border:1.5px solid;
+    border-radius: 5px;
+    border-color: #ff3f40 ;
+    color: #ff3f40;  
+    margin-left: 180px;
+    margin-top: 25px; 
+    padding: 10px 30px;
+    display: inline-block;
+  }
+
+  .tab {
+    margin-top: 130px;
+    padding: 10px 20px;
+  }
+ .tab tr td {
+   padding-right: 15px;
+   width: 270px;
+ }
+
+ .tab tr td h1 {
+  font-size: 2rem;
+  color: #4c4c4c;
+}
+.offer__text {
+  width: 500px;
+}
+
+section {
+  height: 100vh;
+}
+.cooll{
+  padding-right: 55px;
+
+}
+
+.panel1 {
+  width: 1150px;
+  padding-left: 90px ;
+  margin-top: 90px;
+}
+.img1 {
+  height: 400px;
+  width: 600px;
+}
+.footer{
+  background-color: #313030;
+  height: 15vh;
+}
