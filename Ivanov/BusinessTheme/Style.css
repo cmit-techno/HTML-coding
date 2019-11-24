@@ -1,0 +1,76 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.header {
+    margin: 10px;
+    padding: 10px;
+    width: 1586.250px;
+    height: 100px;
+}
+
+.menu {
+    margin-top:8px;
+}
+
+.menu_item{
+    margin: 0 30px;
+    display: inline-block;
+}
+
+li {
+    list-style-type: none; 
+}
+
+.menu_item a {
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+}
+
+.contacts {
+    background-color: rgb(78, 175, 235);
+    padding: 50px;
+    color: white;
+}
+
+.GetJobImg {
+    width: 100%;
+    height: 100%;
+}
+
+.aboutB {
+    margin: 0px;
+    padding-top: 50px;
+    height: 910px;
+}
+
+.title_main2 {
+    padding: 25px;
+}
+.aboutUs{
+    margin: 1px;
+    background-image: url(Pictures/Orange.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.abtB {
+    padding: 10px;
+}
+
+.abtMarg {
+    padding: 25px;
+    padding-left: 10px;
+    color: white;
+}
+
+.workers {
+    height: 910px;
+    padding-top: 50px;
+}
+
+.footer {
+    background-color: rgb(5, 1, 42);
+    color: white;
+}
